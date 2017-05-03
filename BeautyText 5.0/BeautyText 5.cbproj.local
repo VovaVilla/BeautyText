@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TTranslate.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Project1.cbproj=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\BeautyText 5.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.h=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ClipboardForm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.cpp=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ThreadBuf.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.597,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.h=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ThreadBuf.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.cpp=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ClipboardForm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TTranslate.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.796,=D:\OneDrive\Programming\Мои программы (исходники и описания)\BeautyText 5.0\BeautyText 5.0\TSendStatistics.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Project1PCH1.h=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\BeautyText 5PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ClipboardForm.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TBeautyClipboard.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TBeautyClipboard.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,=D:\OneDrive\Programming\BeautyText 5.0\BeautyText 5.0\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.420,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TBeautyClipboard.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TBeautyClipboard.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.591,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TBeautyText.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TGetWikiText.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.649,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit3.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.140,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\BTUPdate.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.052,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TTesuck.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\BTUPdate.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\BTUPdate.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.255,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TGetWikiText.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.522,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.414,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ThreadBuf.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\TGetWikiText.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,=D:\OneDrive\Programming\BeautyText 5.0\BeautyText 5.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\Unit2.dfm=D:\OneDrive\Программирование\BeautyText 5.0\BeautyText 5.0\ClipboardForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

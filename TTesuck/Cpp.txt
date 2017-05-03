@@ -1,0 +1,7 @@
+TStringStream *sStreamOut = new TStringStream;
+TStringStream *sStreamIn = new TStringStream;
+sStreamIn->LoadFromFile("inRef.txt");
+//IdHTTP1->Post("http://tesuck.eveel.ru/summarize.json",sStreamIn,sStreamOut);
+IdHTTP1->Post("http://tesuck.eveel.ru/extract.json",sStreamIn,sStreamOut);
+
+sStreamOut->SaveToFile("resRef.txt");
